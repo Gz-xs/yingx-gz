@@ -15,3 +15,6 @@ public class Admin {
     private String level;
     private String salt;
 }
+public static void main(String[] agrs){
+    System.out.println("122");
+}
